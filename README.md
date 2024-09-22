@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2e57d211-f7a3-434b-9fc3-4e4b0f0795cb)
 ## Website
 
 You can access the project here from github pages I'm using netlify
